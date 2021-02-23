@@ -25,7 +25,7 @@ SECRET_KEY = 'kkh32$ml9c=$b9yu5h1udo*erfs88n8c@tq6v2%g$^*l^k)4lb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
